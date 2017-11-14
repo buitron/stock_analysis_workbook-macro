@@ -5,9 +5,9 @@ There are two macros provided
 * book_stock_summaries.bas --> made to iterate through an entire workbook and populate a summaries table.
 * stock_summaries.bas --> made to iterate through a single worksheet and populate a summaries table.
 
-### Original Spreadsheet *sectioned*
+### Original Spreadsheet, *sectioned*
 ![stock values](images/old_2016.png)
 
-### After Applying Macro *sectioned*
+### After Applying Macro, *sectioned*
 ![stock values and summaries](images/2016.png)
 
