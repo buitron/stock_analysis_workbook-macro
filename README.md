@@ -1,5 +1,5 @@
 # Unit 2 | VBA Macros Designed to Automate Excel Workbook/Sheet Summaries
-macro designed to automate the analysis of an entire excel workbook
+Macros designed to automate the analysis of an entire excel workbook, or single worksheet.
 
 There are two macros provided
 *book_stock_summaries.bas - made to iterate through entire workbook and populate a summaries table
