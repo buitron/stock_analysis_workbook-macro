@@ -1,4 +1,4 @@
-# Unit 2 | VBA Macros Designed to Automate Excel Workbook/Sheet Summaries
+# VBA Macros Designed to Automate Excel Workbook/Sheet Summaries
 Macros designed to automate the analysis of an entire excel workbook, or single worksheet.
 
 There are two macros provided
